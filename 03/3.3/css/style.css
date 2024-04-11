@@ -2,3 +2,15 @@ h1 {
     font-size: 30px;
     font-style: italic;
 }
+/* h1, h2 {
+    color: red;
+} */
+/* * {
+    color: blue;
+} */
+.heading {
+    color: red;
+}
+#heading {
+    color: blue;
+}

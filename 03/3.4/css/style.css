@@ -1,0 +1,14 @@
+.parent div {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background-color: red;
+}
+
+#element a{
+    color: red;
+}
+#element .parent a {
+    color: blue;
+}
+
