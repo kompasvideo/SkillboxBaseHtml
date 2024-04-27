@@ -1,0 +1,12 @@
+.inline {
+    margin-bottom: 30px;
+}
+
+.inline-block {
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+div, span {
+    background: #f2f2f2;
+}
