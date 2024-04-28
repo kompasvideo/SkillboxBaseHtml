@@ -1,0 +1,7 @@
+.max-width {
+    background-color: aqua;
+    max-width: 1000px;
+    min-width: 320px;
+    /* max-height: 500px; */
+    min-height: 200px;
+}
