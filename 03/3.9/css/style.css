@@ -1,0 +1,35 @@
+.elem {
+    display: block;
+    font-size: 32px;
+    background-color:darkgray;
+    width: 400px;
+    height: 70px;
+    margin: 2px;
+}
+
+.elem2 {
+    display: inline;
+    font-size: 32px;
+    background-color:darkgray;
+    width: 400px;
+    height: 70px;
+    margin: 2px;
+}
+
+.elem3 {
+    display: inline-block;
+    font-size: 32px;
+    background-color:darkgray;
+    width: 400px;
+    height: 70px;
+    margin: 2px;
+}
+
+.elem4 {
+    display: none;
+    font-size: 32px;
+    background-color:darkgray;
+    width: 400px;
+    height: 70px;
+    margin: 2px;
+}
