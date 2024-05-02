@@ -1,0 +1,12 @@
+.example {
+    background-color: navy;
+    width: 400px;
+    padding: 20px;
+    border: 6px solid gray;
+    /* border-radius: 20px; */
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: border-box;
+}
