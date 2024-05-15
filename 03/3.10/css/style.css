@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+.block {
+    background-color: aqua;
+    display: block;
+    width: 300px;
+}

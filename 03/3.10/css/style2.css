@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+.parent {
+    font-size: 0;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: rgba(255,0,0,0.33);
+}
+.element {
+    font-size: 16px;
+    outline: 1px solid #000;
+    display: inline-block;
+    width: 320px;
+}
+.element:not(:last-child){
+    margin-right: 20px;
+}
+
