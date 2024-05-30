@@ -24,3 +24,22 @@ body {
 h2 {
     margin: 0 0 1em 0;
 }
+ul {
+    margin: 0;
+    display: inline-block;
+    /* margin: 0 0 1em 0; */
+    padding-left: 1em;
+}
+
+ul:not(:last-child) {
+    margin: 0 0 1em 0;
+}
+
+/* ul:last-child {
+    margin-right: 0;
+    margin-bottom: 0;
+} */
+
+.example:not(:last-child) {
+   margin-bottom: 2em;
+}
