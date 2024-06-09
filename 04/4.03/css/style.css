@@ -1,0 +1,24 @@
+.image {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.parent {
+    width: 600px;
+    margin: 0 auto;
+}
+.block {
+    width: 33%;
+    height: 300px;
+    outline: 1px solid #000;
+    background-color: silver;
+    float: left;
+}
+.overflow {
+    width: 400px;
+    height: 200px;
+    outline: 3px solid red;
+    /* overflow: auto; */
+    overflow-x: auto;
+    overflow-y: auto;
+}
