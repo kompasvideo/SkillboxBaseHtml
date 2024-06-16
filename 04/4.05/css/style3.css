@@ -1,0 +1,22 @@
+a {
+    color: inherit;
+}
+.text  {
+    /* text-decoration: underline;
+    text-decoration: none;
+    text-decoration: line-through; */
+    /* text-decoration: overline;
+    text-align: right; */
+    text-transform: uppercase;
+    font-family: Arial;
+    font-weight: bold;
+    width: 300px;
+    font-size: 20px;
+    /* line-height: 28px; */
+    line-height: 0.8;
+    letter-spacing: -2px;
+    text-indent: 1em;
+    /* white-space: nowrap; */
+    white-space: pre;
+    word-spacing: 10;
+}

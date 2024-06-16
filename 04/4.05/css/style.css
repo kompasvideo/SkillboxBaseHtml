@@ -1,0 +1,12 @@
+.element {
+    color: red;
+}
+.element-2 {
+    color: #ff0;
+}
+.element-3 {
+    color: rgb(0,255,0);
+}
+.element-4 {
+    color: rgba(0,0,255,0.3)
+}
