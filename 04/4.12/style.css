@@ -109,7 +109,7 @@
   }
   
   .help-popup__link {
-    font: 15px / 30px Arial;
+    font: 100 15px / 30px Arial;
     transition-property: color;
   }
   
