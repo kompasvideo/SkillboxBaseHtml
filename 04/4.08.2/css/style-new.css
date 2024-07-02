@@ -11,6 +11,9 @@ body {
 img {
     max-width: 100%;;
 }
+pre {
+    margin: 0;
+}
 .main-title {
     margin-top: 20px;
     margin-bottom: 30px;
@@ -56,4 +59,26 @@ img {
     padding-left: 40px;
     font-size: 20px;
     line-height: 48px;
+}
+.table-caption {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;    
+    text-align: left;
+}
+.table {
+    width: 100%;
+    margin-bottom: 60px;
+    border-collapse: collapse;
+}
+.table-cell {
+    padding: 30px; 
+    font-size: 20px;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid rgba(0, 0, 0, 1);
+}
+.table-header {
+    font-weight: bold;
+    color: #3f2aff;    
 }
