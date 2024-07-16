@@ -99,8 +99,16 @@ body {
 .ul-content {
     margin-left: 15px;
 }
+.li-content {
+    border-bottom: 1px solid #3f2aff;
+    font-size: 20px;
+    color: #3f2aff; 
+}
 .li-content:not(:last-child) {
     margin-bottom: 20px;
+}
+.li-content::marker {
+    color: #3f2aff;    
 }
 .img-art {
     margin-bottom: 40px;
@@ -127,7 +135,36 @@ body {
 .gray-box-image-1 {
     padding-right: 150px;
     background-position: right center;
-    background-size: 300px 300px;
+    background-size: 350px 350px;
     background-repeat: no-repeat;
-    background-image: url("../img/download-icon-clipart-4.png");
+    background-image: url("../img/book_1.jpg");
+}
+.gray-box-image-2 {
+    padding-right: 150px;
+    background-position: right center;
+    background-size: 350px 350px;
+    background-repeat: no-repeat;
+    background-image: url("../img/book_2.jpg");
+}
+h2 {
+    font-size: 40px;
+    line-height: 46px;
+    color: #333;
+}
+h3 {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 34px;
+    color: #333;
+}
+figure {
+    font-size: 0;
+}
+figcaption {
+    border: 1px solid #b6b6b6;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
 }
