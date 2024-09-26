@@ -1,0 +1,43 @@
+/* modules.html */
+html {
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+a {
+    color: inherit;
+    text-decoration: none;
+}
+img {
+    max-width: 100%;
+}
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+
+
+.container {
+    margin:  0 auto;
+    width: 1170px;
+    /* background-color: chartreuse; */
+}
+.skillbox {
+    font-size: 30px;
+    color: #333;
+    margin-top: 50px;
+    /* width: 137px;
+    height: 30px; */
+}
+.toMain {
+    font-size: 20px;
+    color: #3f2aff;
+    margin-top: 25px;
+}
+h1 {
+    font-size: 60px;
+    color: #3f2aff;
+}
